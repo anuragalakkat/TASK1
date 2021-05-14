@@ -1,0 +1,296 @@
+body{
+  font-family: "Ubuntu";
+}
+
+
+
+/* TOPBAR */
+.SMALLICONS{
+  text-align: right;
+  padding: 0% 25%;
+}
+
+
+.EMAIL{
+  text-align: center;
+}
+
+.L5HEAD{
+  padding-left: 40px;
+}
+
+.L5HEAD2{
+  text-align: left;
+}
+
+
+.row1{
+  background-color: #96bb7c;
+  padding: 1%;
+  color : white;
+  
+}
+
+
+/* NAVIGATION BAR */
+
+.NAVIGATION{
+background-color: white;
+text-align: center;
+color: black;
+
+}
+
+
+.navbar-brand{
+  padding: 0% 13% 0% 10%;
+}
+
+.collapse navbar-collapse{
+  color:black;
+}
+
+.nav-item{
+  padding-left: 20px;
+  padding-right: 20px ;
+  scroll-padding-bottom: 20px;
+ }
+
+ .HOSPITALLOGO{
+  width: 100px;
+  height: 100px;
+  overflow: hidden;
+  
+}
+
+
+
+/* INTO-CAROUSEL */
+
+
+.carousel-heading{
+  
+  text-align: left;
+  color:#21BD5F;
+  font-weight: bolder;
+  padding-bottom: 35px ;
+}
+
+.carousel-content{
+  color: #21BD5F;
+  width: 50%;
+}
+
+.carousel-image{
+  width:100%;
+}
+
+.carousel-caption{
+  text-align: left;
+  padding-bottom: 100px;
+}
+
+
+/* FEATURES */
+
+.key-features{
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 50px;
+  color: #666666;
+}
+
+
+.FA_ICON{
+  padding-bottom: 20px;
+  color: #96bb7c;
+}
+
+
+.container1{
+  text-align: center;
+  padding-bottom: 30px;
+  text-align: center;
+  color: #666666;
+}
+
+.container2{
+  text-align: center;
+  padding-bottom: 150px;
+  text-align: center;
+  color: #666666;
+}
+
+
+
+/* DOCTOR_SECTION */
+
+.docSection{
+  /* padding-bottom: 200px; */
+}
+
+.docBg{
+  height: 395px;
+  width: 1349px;
+  
+}
+
+.docPic{
+  position: absolute;
+  bottom: -1407px;
+  left: 150px;
+  
+}
+
+.docDescrition{
+  position: absolute;
+  bottom: -1370px;
+  left: 700px;
+  color: white;
+ }
+
+
+ .docDescrition-para{
+   width: 70%;
+ }
+
+
+ .JOB{
+   padding-bottom: 20px;
+ }
+
+
+
+ /* Team Member Section */
+
+.memberPic{
+  width: 100%;
+    height: 300px;
+    object-fit: cover;
+    padding-bottom: 10px;
+}
+
+.card-body{
+  text-align: center;
+}
+
+.memberSection{
+  background-color: blue;
+}
+
+
+.MEM{
+  background-color: blue;
+}
+
+.MeetOurTeam{
+  text-align: center;
+  background-color: #e1e5ea;
+  color: #666666;
+  padding-bottom: 90px;
+}
+
+.MeetHeading{
+  padding-top: 50px;
+}
+
+.MeetSpec{
+  padding-bottom: 50px;
+}
+
+
+
+/* OUR_BLOG_SECTION */
+
+
+.OurBlog{
+  text-align: center;
+  padding-top: 100px;
+  padding-bottom: 30px;
+}
+
+
+
+.blogCard{
+  text-align: left;
+}
+
+
+.OurBlogSection{
+  color: #666666;
+  padding-bottom: 75px;
+}
+
+
+
+.horizontalRule{
+  background-color: white;
+}
+
+.footerContainer{
+  
+  background-color: black;
+  color: white;
+  padding-top: 60px;
+  padding-bottom: 0;
+}
+
+.footerCol1{
+  padding-left: 130px;
+}
+
+.footerCol2{
+  padding-left: 100px;
+}
+
+.footerContainer{
+  background-color: #404040;
+}
+
+
+.space{
+  padding-left: 184px;
+  text-align: right;
+}
+
+.space2{
+  padding-left: 167px;
+}
+
+.space3{
+  padding-left: 200px;
+}
+
+.space4{
+  padding-left: 173px;
+}
+
+
+/* BOTTOM FOOTER */
+
+
+.footerHead{
+  size: 20px;
+  padding-left: 100px;
+}
+
+.copyRightIcons{
+  text-align: center;
+  padding-left: 250px;
+}
+
+
+.Footerrow1{
+  background-color: #282828;
+  padding: 1%;
+  color : white;
+  padding-top: 20px;
+}
+
+.footerLevel5{
+  padding-bottom: 20px;
+}
+
+.containerLast{
+  padding-top: 20px;
+}
